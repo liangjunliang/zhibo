@@ -1,6 +1,6 @@
 央视频道,#genre#
 
-CCTV1,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8#http://47.117.76.76:7001/hahahaha/ys/zb.php?id=cctv1#,http://goo.bkpcp.top/mg/cctv1#http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0#http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV1,http://majian.ixiaobai.net:58888/rtp/239.37.0.8:5540#http://majian.ixiaobai.net:58888/rtp/239.37.0.152:5540
 CCTV2,http://majian.ixiaobai.net:58888/rtp/239.37.0.3:5540
 CCTV3,http://majian.ixiaobai.net:58888/rtp/239.37.0.231:5540
@@ -330,6 +330,8 @@ CCTV精品,http://60.223.255.143:8800/hls/42/index.m3u8
 山东教育,http://itv.iptv1688.top:2016/itv.php?id=山东教育
 北京科教纪实,http://itv.iptv1688.top:2016/itv.php?id=北京科教纪实
 北京卡酷少儿,http://itv.iptv1688.top:2016/itv.php?id=北京卡酷少儿
+动作电影高码,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
+影迷电影高码,http://itv.iptv1688.top:2016/itv.php?id=CHC影迷电影
 CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
 CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
 CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
