@@ -420,6 +420,18 @@ CGT法语咪咕,http://goo.bkpcp.top/mg/cgtnf
 Y+剧场台咪咕,http://goo.bkpcp.top/mg/yjjc
 
 其他频道,#genre#
+纬来NBA,rtmp://9hv9.mine.nu/sat/tv721
+
+睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+睛彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
+睛彩篮球,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
+睛彩青少,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+睛彩广场舞,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=YanG-1989
+睛彩竞技,http://221.223.18.134:58888/rtp/239.3.1.125:8001
+睛彩篮球,http://221.223.18.134:58888/rtp/239.3.1.126:8001
+睛彩青少,http://221.223.18.134:58888/rtp/239.3.1.127:8001
+睛彩广场舞,http://221.223.18.134:58888/rtp/239.3.1.128:8001
 睛彩竞技,http://8.134.12.37:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,http://8.134.12.37:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 睛彩篮球,http://8.134.12.37:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
