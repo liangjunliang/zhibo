@@ -1,4 +1,4 @@
-ßä¹¾ÑëÊÓ,#genre#
+å’ªå’•å¤®è§†,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
 CCTV-2,http://go.bkpcp.top/mg/cctv2
 CCTV-3,http://go.bkpcp.top/mg/cctv3
@@ -16,167 +16,167 @@ CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-14,http://go.bkpcp.top/mg/cctv14
 CCTV-15,http://go.bkpcp.top/mg/cctv15
 CCTV-17,http://go.bkpcp.top/mg/cctv17
-½­ËÕÎÀÊÓ,http://go.bkpcp.top/mg/jsws
-½­Î÷ÎÀÊÓ,http://go.bkpcp.top/mg/jxws
-ºÓÄÏÎÀÊÓ,http://go.bkpcp.top/mg/hnws
-¹ã¶«ÎÀÊÓ,http://go.bkpcp.top/mg/gdws
-¶«·½ÎÀÊÓ,http://go.bkpcp.top/mg/dfws
-ºş±±ÎÀÊÓ,http://go.bkpcp.top/mg/hbws
-ºşÄÏÎÀÊÓ,http://go.bkpcp.top/mg/hunws
-Õã½­ÎÀÊÓ,http://go.bkpcp.top/mg/zjws
-ÉîÛÚÎÀÊÓ,http://go.bkpcp.top/mg/szws
-°²»ÕÎÀÊÓ,http://go.bkpcp.top/mg/ahws
-É½¶«ÎÀÊÓ,http://go.bkpcp.top/mg/sdws
-ËÄ´¨ÎÀÊÓ,http://go.bkpcp.top/mg/scws
-±±¾©ÎÀÊÓ,http://go.bkpcp.top/mg/bjws
-Ìì½òÎÀÊÓ,http://go.bkpcp.top/mg/tjws
-ÖØÇìÎÀÊÓ,http://go.bkpcp.top/mg/cqws
-¶«ÄÏÎÀÊÓ,http://go.bkpcp.top/mg/dnws
-ºÚÁú½­ÎÀÊÓ,http://go.bkpcp.top/mg/hljws
-¼ªÁÖÎÀÊÓ,http://go.bkpcp.top/mg/jlws
-±øÍÅÎÀÊÓ,http://go.bkpcp.top/mg/btws
-º£Ï¿ÎÀÊÓ,http://go.bkpcp.top/mg/hxws
+æ±Ÿè‹å«è§†,http://go.bkpcp.top/mg/jsws
+æ±Ÿè¥¿å«è§†,http://go.bkpcp.top/mg/jxws
+æ²³å—å«è§†,http://go.bkpcp.top/mg/hnws
+å¹¿ä¸œå«è§†,http://go.bkpcp.top/mg/gdws
+ä¸œæ–¹å«è§†,http://go.bkpcp.top/mg/dfws
+æ¹–åŒ—å«è§†,http://go.bkpcp.top/mg/hbws
+æ¹–å—å«è§†,http://go.bkpcp.top/mg/hunws
+æµ™æ±Ÿå«è§†,http://go.bkpcp.top/mg/zjws
+æ·±åœ³å«è§†,http://go.bkpcp.top/mg/szws
+å®‰å¾½å«è§†,http://go.bkpcp.top/mg/ahws
+å±±ä¸œå«è§†,http://go.bkpcp.top/mg/sdws
+å››å·å«è§†,http://go.bkpcp.top/mg/scws
+åŒ—äº¬å«è§†,http://go.bkpcp.top/mg/bjws
+å¤©æ´¥å«è§†,http://go.bkpcp.top/mg/tjws
+é‡åº†å«è§†,http://go.bkpcp.top/mg/cqws
+ä¸œå—å«è§†,http://go.bkpcp.top/mg/dnws
+é»‘é¾™æ±Ÿå«è§†,http://go.bkpcp.top/mg/hljws
+å‰æ—å«è§†,http://go.bkpcp.top/mg/jlws
+å…µå›¢å«è§†,http://go.bkpcp.top/mg/btws
+æµ·å³¡å«è§†,http://go.bkpcp.top/mg/hxws
 
-ÑëÊÓÆµµÀ´úÀí,#genre#
-CTV-01¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
- CCTV-02¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2 
-CCTV-03¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3 
-CCTV-04¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4 
-CCTV-05¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
- CCTV-5+¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
- CCTV-06¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6 
-CCTV-07¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7 
-CCTV-08¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8 
-CCTV-09¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9 
-CCTV-10¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
- CCTV-11¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
- CCTV-12¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12 
-CCTV-13¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13 
-CCTV-14¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14 
-CCTV-15¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
- CCTV-16¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
- CCTV-17¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17 
-±±¾©ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
- ¶«·½ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws 
-Õã½­ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws 
-½­ËÕÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws 
-ºşÄÏÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws 
-¹ã¶«ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws 
-ÉîÛÚÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws 
-Ìì½òÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws 
-°²»ÕÎÀÊÓ,http://61.156.228.12:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0#http://www.lizhinas.top:1009/rtp/239.252.220.83:5140
-É½¶«ÎÀÊÓ,http://www.lizhinas.top:1009/rtp/239.252.219.228:5140
-É½¶«ÎÀÊÓÁªÍ¨,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-É½¶«ÎÀÊÓ2,http://61.177.81.198:35455/nptv/shandong.m3u8
-°²»ÕÎÀÊÓ¸ßÂë,http://ylt.7766.org:333/hls/46/index.m3u8
-É½¶«ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws 
-ÁÉÄşÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws 
-ºÓ±±ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws 
-ºÓÄÏÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws 
-½­Î÷ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws 
-ËÄ´¨ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
- ÖØÇìÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws 
-¹óÖİÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws 
-ºş±±ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
- ¹ãÎ÷ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws 
-¶«ÄÏÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws 
-º£ÄÏÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws 
-Çàº£ÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws 
-¼ªÁÖÎÀÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws 
-ºÚÁú½­ÊÓ¸ßÂë,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws 
+å¤®è§†é¢‘é“ä»£ç†,#genre#
+CTV-01é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+ CCTV-02é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2 
+CCTV-03é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3 
+CCTV-04é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4 
+CCTV-05é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+ CCTV-5+é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+ CCTV-06é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6 
+CCTV-07é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7 
+CCTV-08é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8 
+CCTV-09é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9 
+CCTV-10é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+ CCTV-11é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+ CCTV-12é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12 
+CCTV-13é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13 
+CCTV-14é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14 
+CCTV-15é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+ CCTV-16é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+ CCTV-17é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17 
+åŒ—äº¬å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+ ä¸œæ–¹å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws 
+æµ™æ±Ÿå«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws 
+æ±Ÿè‹å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws 
+æ¹–å—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws 
+å¹¿ä¸œå«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws 
+æ·±åœ³å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws 
+å¤©æ´¥å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws 
+å®‰å¾½å«è§†,http://61.156.228.12:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0#http://www.lizhinas.top:1009/rtp/239.252.220.83:5140
+å±±ä¸œå«è§†,http://www.lizhinas.top:1009/rtp/239.252.219.228:5140
+å±±ä¸œå«è§†è”é€š,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+å±±ä¸œå«è§†2,http://61.177.81.198:35455/nptv/shandong.m3u8
+å®‰å¾½å«è§†é«˜ç ,http://ylt.7766.org:333/hls/46/index.m3u8
+å±±ä¸œå«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws 
+è¾½å®å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws 
+æ²³åŒ—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws 
+æ²³å—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws 
+æ±Ÿè¥¿å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws 
+å››å·å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+ é‡åº†å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws 
+è´µå·å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws 
+æ¹–åŒ—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+ å¹¿è¥¿å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws 
+ä¸œå—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws 
+æµ·å—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws 
+é’æµ·å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws 
+å‰æ—å«è§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws 
+é»‘é¾™æ±Ÿè§†é«˜ç ,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws 
 
-±±¾©ÎÀÊÓ,https://60.191.56.186:8888/hls/34/index.m3u8
-Õã½­ÎÀÊÓ,https://60.191.56.186:8888/hls/17/index.m3u8
-¶«·½ÎÀÊÓ,https://60.191.56.186:8888/hls/30/index.m3u8
-ºşÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/31/index.m3u8
-½­ËÕÎÀÊÓ,https://60.191.56.186:8888/hls/33/index.m3u8
-°²»ÕÎÀÊÓ,https://60.191.56.186:8888/hls/32/index.m3u8
-É½¶«ÎÀÊÓ,https://60.191.56.186:8888/hls/46/index.m3u8
-ÖØÇìÎÀÊÓ,https://60.191.56.186:8888/hls/35/index.m3u8
-¹óÖİÎÀÊÓ,https://60.191.56.186:8888/hls/36/index.m3u8
-ËÄ´¨ÎÀÊÓ,https://60.191.56.186:8888/hls/37/index.m3u8
-¹ã¶«ÎÀÊÓ,https://60.191.56.186:8888/hls/38/index.m3u8
-Ìì½òÎÀÊÓ,https://60.191.56.186:8888/hls/41/index.m3u8
-ºÓÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/57/index.m3u8
-ºÓ±±ÎÀÊÓ,https://60.191.56.186:8888/hls/43/index.m3u8
-ºÚÁú½­ÎÀÊÓ,https://60.191.56.186:8888/hls/44/index.m3u8
-¶«ÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/47/index.m3u8
-ºş±±ÎÀÊÓ,https://60.191.56.186:8888/hls/48/index.m3u8
-ÁÉÄşÎÀÊÓ,https://60.191.56.186:8888/hls/49/index.m3u8
-½­Î÷ÎÀÊÓ,https://60.191.56.186:8888/hls/50/index.m3u8
-Çàº£ÎÀÊÓ,https://60.191.56.186:8888/hls/51/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,https://60.191.56.186:8888/hls/53/index.m3u8
-º£ÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/45/index.m3u8
-É½Î÷ÎÀÊÓ,https://60.191.56.186:8888/hls/55/index.m3u8
-ÔÆÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/42/index.m3u8
-¼ªÁÖÎÀÊÓ,https://60.191.56.186:8888/hls/39/index.m3u8
-ÄşÏÄÎÀÊÓ,https://60.191.56.186:8888/hls/56/index.m3u8
-¹ãÎ÷ÎÀÊÓ,https://60.191.56.186:8888/hls/58/index.m3u8
-
-
-ÎÀÊÓ½¡¿µ,http://majian.ixiaobai.net:58888/rtp/239.37.0.229:5540
-
-µÚÒ»¾ç³¡-NPTV,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
-·çÔÆ¾ç³¡-NPTV,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
-»³¾É¾ç³¡-NPTV,http://www.douzhicloud.site:35455/nptv/hjjc.m3u8
+åŒ—äº¬å«è§†,https://60.191.56.186:8888/hls/34/index.m3u8
+æµ™æ±Ÿå«è§†,https://60.191.56.186:8888/hls/17/index.m3u8
+ä¸œæ–¹å«è§†,https://60.191.56.186:8888/hls/30/index.m3u8
+æ¹–å—å«è§†,https://60.191.56.186:8888/hls/31/index.m3u8
+æ±Ÿè‹å«è§†,https://60.191.56.186:8888/hls/33/index.m3u8
+å®‰å¾½å«è§†,https://60.191.56.186:8888/hls/32/index.m3u8
+å±±ä¸œå«è§†,https://60.191.56.186:8888/hls/46/index.m3u8
+é‡åº†å«è§†,https://60.191.56.186:8888/hls/35/index.m3u8
+è´µå·å«è§†,https://60.191.56.186:8888/hls/36/index.m3u8
+å››å·å«è§†,https://60.191.56.186:8888/hls/37/index.m3u8
+å¹¿ä¸œå«è§†,https://60.191.56.186:8888/hls/38/index.m3u8
+å¤©æ´¥å«è§†,https://60.191.56.186:8888/hls/41/index.m3u8
+æ²³å—å«è§†,https://60.191.56.186:8888/hls/57/index.m3u8
+æ²³åŒ—å«è§†,https://60.191.56.186:8888/hls/43/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,https://60.191.56.186:8888/hls/44/index.m3u8
+ä¸œå—å«è§†,https://60.191.56.186:8888/hls/47/index.m3u8
+æ¹–åŒ—å«è§†,https://60.191.56.186:8888/hls/48/index.m3u8
+è¾½å®å«è§†,https://60.191.56.186:8888/hls/49/index.m3u8
+æ±Ÿè¥¿å«è§†,https://60.191.56.186:8888/hls/50/index.m3u8
+é’æµ·å«è§†,https://60.191.56.186:8888/hls/51/index.m3u8
+é™•è¥¿å«è§†,https://60.191.56.186:8888/hls/53/index.m3u8
+æµ·å—å«è§†,https://60.191.56.186:8888/hls/45/index.m3u8
+å±±è¥¿å«è§†,https://60.191.56.186:8888/hls/55/index.m3u8
+äº‘å—å«è§†,https://60.191.56.186:8888/hls/42/index.m3u8
+å‰æ—å«è§†,https://60.191.56.186:8888/hls/39/index.m3u8
+å®å¤å«è§†,https://60.191.56.186:8888/hls/56/index.m3u8
+å¹¿è¥¿å«è§†,https://60.191.56.186:8888/hls/58/index.m3u8
 
 
-°²»ÕÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/anhui.m3u8
-É½¶«ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/shandong.m3u8
-½­ËÕÎÀÊÓ,http://60.9.236.159:50003/hls/37/index.m3u8
-ºşÄÏÎÀÊÓ,http://60.9.236.159:50003/hls/35/index.m3u8
-Õã½­ÎÀÊÓ,http://60.9.236.159:50003/hls/36/index.m3u8
-¹ãÎ÷ÎÀÊÓ,http://60.9.236.159:50003/hls/56/index.m3u8
-Ìì½òÎÀÊÓ,http://60.9.236.159:50003/hls/40/index.m3u8
-ÉîÛÚÎÀÊÓ,http://60.9.236.159:50003/hls/41/index.m3u8
-¹ã¶«ÎÀÊÓ,http://60.9.236.159:50003/hls/43/index.m3u8
-ºş±±ÎÀÊÓ,http://60.9.236.159:50003/hls/47/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://60.9.236.159:50003/hls/48/index.m3u8
-ĞÂ½®ÎÀÊÓ,http://60.9.236.159:50003/hls/64/index.m3u8
-ºÓ±±ÎÀÊÓ,http://60.9.236.159:50003/hls/22/index.m3u8
-ÁÉÄşÎÀÊÓ,http://60.9.236.159:50003/hls/45/index.m3u8
-ÖØÇìÎÀÊÓ,http://60.9.236.159:50003/hls/49/index.m3u8
-ºÓÄÏÎÀÊÓ,http://60.9.236.159:50003/hls/50/index.m3u8
-¹óÖİÎÀÊÓ,http://60.9.236.159:50003/hls/51/index.m3u8
-½­Î÷ÎÀÊÓ,http://60.9.236.159:50003/hls/52/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,http://60.9.236.159:50003/hls/57/index.m3u8
-É½¶«ÎÀÊÓ,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
-½­Î÷ÎÀÊÓ,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-Õã½­ÎÀÊÓ,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-ÁÉÄşÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/liaoning.m3u8
-±±¾©ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/beijing.m3u8
-ºşÄÏÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/hunan.m3u8
-½­ËÕÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/jiangsu.m3u8
-¶«·½ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/dongfang.m3u8
-ºş±±ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/hubei.m3u8
-Ìì½òÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/tianjing.m3u8
+å«è§†å¥åº·,http://majian.ixiaobai.net:58888/rtp/239.37.0.229:5540
 
-ºÚÁú½­ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/heilongjiang.m3u8
-¹óÖİÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/guizhou.m3u8
-¶«ÄÏÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/dongnan.m3u8
-ÖØÇìÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/chongqing.m3u8
-½­Î÷ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/jiangxi.m3u8
-¹ã¶«ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/guangdong.m3u8
-ºÓ±±ÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/hebei.m3u8
-ÉîÛÚÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/shenzheng.m3u8
-¼ªÁÖÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/jiling.m3u8
-ºÓÄÏÎÀÊÓ-NPTV,http://www.douzhicloud.site:35455/nptv/henan.m3u8
-¶¯×÷µçÓ°¸ßÂë,http://qwt.zhibotv.top:2016/È«ÍøÍ¨.php?id=CHC¶¯×÷µçÓ°
- ¼ÒÍ¥Ó°Ôº¸ßÂë,http://qwt.zhibotv.top:2016/È«ÍøÍ¨.php?id=CHC¼ÒÍ¥Ó°Ôº
- Ó°ÃÔµçÓ°¸ßÂë,http://qwt.zhibotv.top:2016/È«ÍøÍ¨.php?id=CHCÓ°ÃÔµçÓ° 
-CHCÓ°ÃÔµçÓ°,http://www.douzhicloud.site:35455/mgtv/952383261.m3u8
-CHC¶¯×÷µçÓ°,http://www.douzhicloud.site:35455/mgtv/644368714.m3u8
-CHC¼ÒÍ¥Ó°Ôº,http://www.douzhicloud.site:35455/mgtv/644368373.m3u8
-°²»ÕÎÀÊÓ¸ßÂë,http://qwt.zhibotv.top:2016/È«ÍøÍ¨.php?id=°²»ÕÎÀÊÓ 
-É½¶«ÎÀÊÓ¸ßÂë,http://qwt.zhibotv.top:2016/È«ÍøÍ¨.php?id=É½¶«ÎÀÊÓ 
-¶«·½ÎÀÊÓ,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
- ÖØÇìÎÀÊÓ,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+ç¬¬ä¸€å‰§åœº-NPTV,http://www.douzhicloud.site:35455/nptv/dyjc.m3u8
+é£äº‘å‰§åœº-NPTV,http://www.douzhicloud.site:35455/nptv/fyjc.m3u8
+æ€€æ—§å‰§åœº-NPTV,http://www.douzhicloud.site:35455/nptv/hjjc.m3u8
 
 
+å®‰å¾½å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/anhui.m3u8
+å±±ä¸œå«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/shandong.m3u8
+æ±Ÿè‹å«è§†,http://60.9.236.159:50003/hls/37/index.m3u8
+æ¹–å—å«è§†,http://60.9.236.159:50003/hls/35/index.m3u8
+æµ™æ±Ÿå«è§†,http://60.9.236.159:50003/hls/36/index.m3u8
+å¹¿è¥¿å«è§†,http://60.9.236.159:50003/hls/56/index.m3u8
+å¤©æ´¥å«è§†,http://60.9.236.159:50003/hls/40/index.m3u8
+æ·±åœ³å«è§†,http://60.9.236.159:50003/hls/41/index.m3u8
+å¹¿ä¸œå«è§†,http://60.9.236.159:50003/hls/43/index.m3u8
+æ¹–åŒ—å«è§†,http://60.9.236.159:50003/hls/47/index.m3u8
+å››å·å«è§†,http://60.9.236.159:50003/hls/48/index.m3u8
+æ–°ç–†å«è§†,http://60.9.236.159:50003/hls/64/index.m3u8
+æ²³åŒ—å«è§†,http://60.9.236.159:50003/hls/22/index.m3u8
+è¾½å®å«è§†,http://60.9.236.159:50003/hls/45/index.m3u8
+é‡åº†å«è§†,http://60.9.236.159:50003/hls/49/index.m3u8
+æ²³å—å«è§†,http://60.9.236.159:50003/hls/50/index.m3u8
+è´µå·å«è§†,http://60.9.236.159:50003/hls/51/index.m3u8
+æ±Ÿè¥¿å«è§†,http://60.9.236.159:50003/hls/52/index.m3u8
+é™•è¥¿å«è§†,http://60.9.236.159:50003/hls/57/index.m3u8
+å±±ä¸œå«è§†,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
+æ±Ÿè¥¿å«è§†,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+æµ™æ±Ÿå«è§†,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+è¾½å®å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/liaoning.m3u8
+åŒ—äº¬å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/beijing.m3u8
+æ¹–å—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/hunan.m3u8
+æ±Ÿè‹å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/jiangsu.m3u8
+ä¸œæ–¹å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/dongfang.m3u8
+æ¹–åŒ—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/hubei.m3u8
+å¤©æ´¥å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/tianjing.m3u8
+
+é»‘é¾™æ±Ÿå«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/heilongjiang.m3u8
+è´µå·å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/guizhou.m3u8
+ä¸œå—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/dongnan.m3u8
+é‡åº†å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/chongqing.m3u8
+æ±Ÿè¥¿å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/jiangxi.m3u8
+å¹¿ä¸œå«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/guangdong.m3u8
+æ²³åŒ—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/hebei.m3u8
+æ·±åœ³å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/shenzheng.m3u8
+å‰æ—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/jiling.m3u8
+æ²³å—å«è§†-NPTV,http://www.douzhicloud.site:35455/nptv/henan.m3u8
+åŠ¨ä½œç”µå½±é«˜ç ,http://qwt.zhibotv.top:2016/å…¨ç½‘é€š.php?id=CHCåŠ¨ä½œç”µå½±
+ å®¶åº­å½±é™¢é«˜ç ,http://qwt.zhibotv.top:2016/å…¨ç½‘é€š.php?id=CHCå®¶åº­å½±é™¢
+ å½±è¿·ç”µå½±é«˜ç ,http://qwt.zhibotv.top:2016/å…¨ç½‘é€š.php?id=CHCå½±è¿·ç”µå½± 
+CHCå½±è¿·ç”µå½±,http://www.douzhicloud.site:35455/mgtv/952383261.m3u8
+CHCåŠ¨ä½œç”µå½±,http://www.douzhicloud.site:35455/mgtv/644368714.m3u8
+CHCå®¶åº­å½±é™¢,http://www.douzhicloud.site:35455/mgtv/644368373.m3u8
+å®‰å¾½å«è§†é«˜ç ,http://qwt.zhibotv.top:2016/å…¨ç½‘é€š.php?id=å®‰å¾½å«è§† 
+å±±ä¸œå«è§†é«˜ç ,http://qwt.zhibotv.top:2016/å…¨ç½‘é€š.php?id=å±±ä¸œå«è§† 
+ä¸œæ–¹å«è§†,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+ é‡åº†å«è§†,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
 
 
 
-¸£½¨,#genre#
+
+
+ç¦å»º,#genre#
 CCTV1,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV1,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227014/index.m3u8
@@ -268,189 +268,189 @@ CETV1,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227067/ind
 CETV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227323/index.m3u8
 CETV1,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227323/index.m3u8
 CETV2,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227206/index.m3u8
-¸£½¨ÎÄÌå,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
-¸£½¨ÎÄÌå,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
-¸£½¨ĞÂÎÅ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227180/index.m3u8
-¸£½¨ÂÃÓÎ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227190/index.m3u8
-¸£½¨µçÊÓ¾ç,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227079/index.m3u8
-¸£½¨×ÛºÏ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227149/index.m3u8
-»·ÇòÆæ¹Û,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227490/index.m3u8
-¿ìÀÖ´¹µö,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
-¿ìÀÖ´¹µö,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
-ÖØÇìÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
-ÖØÇìÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
-ÖØÇìÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
-ÖØÇìÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
-½­ËÕÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
-½­ËÕÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
-½­ËÕÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
-½­ËÕÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
-Õã½­ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
-Õã½­ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
-Õã½­ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
-Õã½­ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
-¶«·½ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
-¶«·½ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227059/index.m3u8
-ÉîÛÚÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
-ÉîÛÚÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
-ÉîÛÚÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227514/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227246/index.m3u8
-±±¾©ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
-É½¶«ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
-É½¶«ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
-É½¶«ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
-É½¶«ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
-Ìì½òÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
-Ìì½òÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
-¹óÖİÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227201/index.m3u8
-¹óÖİÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
-¹óÖİÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
-¹óÖİÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
-¹óÖİÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227182/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
-ËÄ´¨ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
-ÔÆÄÏÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225853/index.m3u8
-ÔÆÄÏÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227181/index.m3u8
-¹ãÎ÷ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225836/index.m3u8
-¹ãÎ÷ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
-ºÚÁú½­ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
-ºÚÁú½­ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225836/index.m3u8
-ºÚÁú½­ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
-ºÚÁú½­ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
-°²»ÕÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
-°²»ÕÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227178/index.m3u8
-°²»ÕÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
-°²»ÕÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
-°²»ÕÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
-É½Î÷ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
-É½Î÷ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
-É½Î÷ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
-½­Î÷ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
-½­Î÷ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
-½­Î÷ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227209/index.m3u8
-½­Î÷ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
-½­Î÷ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
-ºş±±ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
-ºş±±ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
-ºş±±ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
-ÂÃÓÎÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227216/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
-¶«ÄÏÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227156/index.m3u8
-¶«ÄÏÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
-¶«ÄÏÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
-¼ªÁÖÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
-¼ªÁÖÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
-ÁÉÄşÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
-ÁÉÄşÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
-ÁÉÄşÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
-ÁÉÄşÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
-ÁÉÄşÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227141/index.m3u8
-ÄÚÃÉ¹ÅÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
-ÄÚÃÉ¹ÅÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
-ÄÚÃÉ¹ÅÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
-ÄÚÃÉ¹ÅÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
-ºşÄÏÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
-ºşÄÏÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
-ºşÄÏÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
-ºşÄÏÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
-¹ã¶«ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
-¹ã¶«ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
-¹ã¶«ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
-¹ã¶«ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227164/index.m3u8
-ºÓÄÏÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227095/index.m3u8
-ºÓÄÏÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
-ºÓÄÏÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
-ºÓ±±ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227063/index.m3u8
-ºÓ±±ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225837/index.m3u8
-ÄşÏÄÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225849/index.m3u8
-ÄşÏÄÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225849/index.m3u8
-¸ÊËàÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
-¸ÊËàÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
-Çàº£ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
-Çàº£ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
-Çàº£ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
-Çàº£ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
-Çàº£ÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
-ĞÂ½®ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227248/index.m3u8
-ĞÂ½®ÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
-ĞÂ½®ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
-ĞÂ½®ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
-Î÷²ØÎÀÊÓ,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227217/index.m3u8
-±øÍÅÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u8
-¼Î¼Ñ¿¨Í¨,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227230/index.m3u8
+ç¦å»ºæ–‡ä½“,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
+ç¦å»ºæ–‡ä½“,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227188/index.m3u8
+ç¦å»ºæ–°é—»,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227180/index.m3u8
+ç¦å»ºæ—…æ¸¸,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227190/index.m3u8
+ç¦å»ºç”µè§†å‰§,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227079/index.m3u8
+ç¦å»ºç»¼åˆ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227149/index.m3u8
+ç¯çƒå¥‡è§‚,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227490/index.m3u8
+å¿«ä¹å‚é’“,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+å¿«ä¹å‚é’“,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
+é‡åº†å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+é‡åº†å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
+é‡åº†å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+é‡åº†å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225831/index.m3u8
+æ±Ÿè‹å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+æ±Ÿè‹å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+æ±Ÿè‹å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+æ±Ÿè‹å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
+æµ™æ±Ÿå«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+æµ™æ±Ÿå«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+æµ™æ±Ÿå«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+æµ™æ±Ÿå«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+ä¸œæ–¹å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
+ä¸œæ–¹å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227059/index.m3u8
+æ·±åœ³å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
+æ·±åœ³å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
+æ·±åœ³å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227514/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227246/index.m3u8
+åŒ—äº¬å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225826/index.m3u8
+å±±ä¸œå«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+å±±ä¸œå«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+å±±ä¸œå«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+å±±ä¸œå«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
+å¤©æ´¥å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+å¤©æ´¥å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225830/index.m3u8
+è´µå·å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227201/index.m3u8
+è´µå·å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+è´µå·å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+è´µå·å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+è´µå·å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225838/index.m3u8
+å››å·å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+å››å·å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227182/index.m3u8
+å››å·å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+å››å·å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+å››å·å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225835/index.m3u8
+äº‘å—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225853/index.m3u8
+äº‘å—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227181/index.m3u8
+å¹¿è¥¿å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225836/index.m3u8
+å¹¿è¥¿å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225836/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
+å®‰å¾½å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+å®‰å¾½å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227178/index.m3u8
+å®‰å¾½å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+å®‰å¾½å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+å®‰å¾½å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225844/index.m3u8
+å±±è¥¿å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+å±±è¥¿å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+å±±è¥¿å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
+æ±Ÿè¥¿å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+æ±Ÿè¥¿å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+æ±Ÿè¥¿å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227209/index.m3u8
+æ±Ÿè¥¿å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+æ±Ÿè¥¿å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225834/index.m3u8
+æ¹–åŒ—å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+æ¹–åŒ—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+æ¹–åŒ—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225840/index.m3u8
+æ—…æ¸¸å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227216/index.m3u8
+é™•è¥¿å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+é™•è¥¿å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+é™•è¥¿å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225850/index.m3u8
+ä¸œå—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227156/index.m3u8
+ä¸œå—å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+ä¸œå—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
+å‰æ—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
+å‰æ—å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
+è¾½å®å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+è¾½å®å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+è¾½å®å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+è¾½å®å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225832/index.m3u8
+è¾½å®å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227141/index.m3u8
+å†…è’™å¤å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+å†…è’™å¤å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+å†…è’™å¤å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225846/index.m3u8
+å†…è’™å¤å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+æ¹–å—å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+æ¹–å—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+æ¹–å—å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+æ¹–å—å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
+å¹¿ä¸œå«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+å¹¿ä¸œå«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+å¹¿ä¸œå«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+å¹¿ä¸œå«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227164/index.m3u8
+æ²³å—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227095/index.m3u8
+æ²³å—å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+æ²³å—å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
+æ²³åŒ—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227063/index.m3u8
+æ²³åŒ—å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225837/index.m3u8
+å®å¤å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225849/index.m3u8
+å®å¤å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225849/index.m3u8
+ç”˜è‚ƒå«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
+ç”˜è‚ƒå«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
+é’æµ·å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+é’æµ·å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
+é’æµ·å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+é’æµ·å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227119/index.m3u8
+é’æµ·å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225841/index.m3u8
+æ–°ç–†å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227248/index.m3u8
+æ–°ç–†å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+æ–°ç–†å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+æ–°ç–†å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
+è¥¿è—å«è§†,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227217/index.m3u8
+å…µå›¢å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227168/index.m3u8
+å˜‰ä½³å¡é€š,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227230/index.m3u8
 CGTN,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225822/index.m3u8
 CGTN,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225822/index.m3u8
-¹Å×°¾ç³¡,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
+å¤è£…å‰§åœº,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227307/index.m3u8
 2115_5862,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
 CGTN ESPANOL,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227238/index.m3u8
 CGTN FRANCAIS,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227220/index.m3u8
-CGTN ¼ÇÂ¼,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225813/index.m3u8
-CGTN¶íÓï,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227103/index.m3u8
-CGTN¼ÇÂ¼,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225813/index.m3u8
-CGTN°¢À­²®,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227224/index.m3u8
+CGTN è®°å½•,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225813/index.m3u8
+CGTNä¿„è¯­,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227103/index.m3u8
+CGTNè®°å½•,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225813/index.m3u8
+CGTNé˜¿æ‹‰ä¼¯,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227224/index.m3u8
 UHD 4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226825/index.m3u8
-ÈıÉ³ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
-ÈıÉ³ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
-ÖĞ»ªÌØ²ú,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8
-ÖĞ¹ú¹¦·ò,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227473/index.m3u8
-ÖĞ¹úÌìÆø,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227210/index.m3u8
-¾Å»­Ãæ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226866/index.m3u8
-ÓÅÓÅ±¦±´,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227367/index.m3u8
-ÓÅÂş¿¨Í¨,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
-ÏÈ·æÆ¹Óğ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
-ÏÈ·æÆ¹Óğ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
-¾üÊÂÆÀÂÛ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227452/index.m3u8
-¶¯×÷µçÓ°,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
-¶¯×÷µçÓ°,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
-¶¯×÷µçÓ°,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
-±±¾©¼ÍÊµ¿Æ½Ì,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225944/index.m3u8
-¿¨¿áÉÙ¶ù,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
-³³ÂğÀ±ÆÅ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
-¹ş¹şìÅ¶¯,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-ßÕà£ÈüÊÂ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227331/index.m3u8
-Ñë¹ã¹ºÎï,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
-Ñë¹ã¹ºÎï,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227319/index.m3u8
-Ñë¹ã¹ºÎï,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227466/index.m3u8
-¼ÒÍ¥¾ç³¡,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227457/index.m3u8
-É½¶«½ÌÓı,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227474/index.m3u8
-¹¤ËÕÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227160/index.m3u8
-¹ã¶«ÎÀÊÓ 4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
-¿µ°ÍÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
-¿µ°ÍÎÀÊÓ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
-¿µ°ÍÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
-ĞÂ¶¯Âş,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
-º£Ï¿ÎÀÊÓ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
-º£Ï¿ÎÀÊÓ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
-³±ÂèÀ±ÆÅ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
-°®Çé¾ç³¡,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
-ÉúÌ¬»·¾³,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227494/index.m3u8
-¾¦²Ê¾º¼¼,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
-¾¦²ÊÀºÇò,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
-¾¦²ÊÇàÉÙ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227314/index.m3u8
-¾«Æ·ÌåÓı,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227470/index.m3u8
-¾«Æ·´ó¾ç,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
-¾«Æ·´ó¾ç,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
-¾«Æ·ÃÈ³è,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227183/index.m3u8
-¾«Æ·¼ÇÂ¼,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227461/index.m3u8
-²èÆµµÀ,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
-²èÆµµÀ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
-½ğÅÆ×ÛÒÕ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227469/index.m3u8
-½ğÓ¥¼ÍÊµ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226937/index.m3u8
-ºÚİ®¶¯»­,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-ºÚİ®¶¯»­,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-ºÚİ®µçÓ°,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+ä¸‰æ²™å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+ä¸‰æ²™å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227172/index.m3u8
+ä¸­åç‰¹äº§,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8
+ä¸­å›½åŠŸå¤«,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227473/index.m3u8
+ä¸­å›½å¤©æ°”,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227210/index.m3u8
+ä¹ç”»é¢,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226866/index.m3u8
+ä¼˜ä¼˜å®è´,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227367/index.m3u8
+ä¼˜æ¼«å¡é€š,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
+å…ˆé”‹ä¹’ç¾½,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
+å…ˆé”‹ä¹’ç¾½,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
+å†›äº‹è¯„è®º,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227452/index.m3u8
+åŠ¨ä½œç”µå½±,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+åŠ¨ä½œç”µå½±,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+åŠ¨ä½œç”µå½±,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225879/index.m3u8
+åŒ—äº¬çºªå®ç§‘æ•™,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225944/index.m3u8
+å¡é…·å°‘å„¿,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
+åµå—è¾£å©†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+å“ˆå“ˆç‚«åŠ¨,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
+å“’å•µèµ›äº‹,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227331/index.m3u8
+å¤®å¹¿è´­ç‰©,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
+å¤®å¹¿è´­ç‰©,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227319/index.m3u8
+å¤®å¹¿è´­ç‰©,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227466/index.m3u8
+å®¶åº­å‰§åœº,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227457/index.m3u8
+å±±ä¸œæ•™è‚²,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227474/index.m3u8
+å·¥è‹å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227160/index.m3u8
+å¹¿ä¸œå«è§† 4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
+åº·å·´å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+åº·å·´å«è§†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+åº·å·´å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
+æ–°åŠ¨æ¼«,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
+æµ·å³¡å«è§†,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
+æµ·å³¡å«è§†,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227198/index.m3u8
+æ½®å¦ˆè¾£å©†,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227311/index.m3u8
+çˆ±æƒ…å‰§åœº,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227462/index.m3u8
+ç”Ÿæ€ç¯å¢ƒ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227494/index.m3u8
+ç›å½©ç«æŠ€,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
+ç›å½©ç¯®çƒ,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
+ç›å½©é’å°‘,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227314/index.m3u8
+ç²¾å“ä½“è‚²,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227470/index.m3u8
+ç²¾å“å¤§å‰§,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+ç²¾å“å¤§å‰§,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227315/index.m3u8
+ç²¾å“èŒå® ,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227183/index.m3u8
+ç²¾å“è®°å½•,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227461/index.m3u8
+èŒ¶é¢‘é“,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
+èŒ¶é¢‘é“,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226859/index.m3u8
+é‡‘ç‰Œç»¼è‰º,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227469/index.m3u8
+é‡‘é¹°çºªå®,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226937/index.m3u8
+é»‘è“åŠ¨ç”»,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+é»‘è“åŠ¨ç”»,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+é»‘è“ç”µå½±,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
 
 
-ÑëÊÓÆµµÀ,#genre#
+å¤®è§†é¢‘é“,#genre#
 
 
 CCTV-1,https://60.191.56.186:8888/hls/1/index.m3u8
@@ -470,34 +470,34 @@ CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-15,https://60.191.56.186:8888/hls/14/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
-±±¾©ÎÀÊÓ,https://60.191.56.186:8888/hls/34/index.m3u8
-Õã½­ÎÀÊÓ,https://60.191.56.186:8888/hls/17/index.m3u8
-¶«·½ÎÀÊÓ,https://60.191.56.186:8888/hls/30/index.m3u8
-ºşÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/31/index.m3u8
-½­ËÕÎÀÊÓ,https://60.191.56.186:8888/hls/33/index.m3u8
-°²»ÕÎÀÊÓ,https://60.191.56.186:8888/hls/32/index.m3u8
-É½¶«ÎÀÊÓ,https://60.191.56.186:8888/hls/46/index.m3u8
-ÖØÇìÎÀÊÓ,https://60.191.56.186:8888/hls/35/index.m3u8
-¹óÖİÎÀÊÓ,https://60.191.56.186:8888/hls/36/index.m3u8
-ËÄ´¨ÎÀÊÓ,https://60.191.56.186:8888/hls/37/index.m3u8
-¹ã¶«ÎÀÊÓ,https://60.191.56.186:8888/hls/38/index.m3u8
-Ìì½òÎÀÊÓ,https://60.191.56.186:8888/hls/41/index.m3u8
-ºÓÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/57/index.m3u8
-ºÓ±±ÎÀÊÓ,https://60.191.56.186:8888/hls/43/index.m3u8
-ºÚÁú½­ÎÀÊÓ,https://60.191.56.186:8888/hls/44/index.m3u8
-¶«ÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/47/index.m3u8
-ºş±±ÎÀÊÓ,https://60.191.56.186:8888/hls/48/index.m3u8
-ÁÉÄşÎÀÊÓ,https://60.191.56.186:8888/hls/49/index.m3u8
-½­Î÷ÎÀÊÓ,https://60.191.56.186:8888/hls/50/index.m3u8
-Çàº£ÎÀÊÓ,https://60.191.56.186:8888/hls/51/index.m3u8
-ÉÂÎ÷ÎÀÊÓ,https://60.191.56.186:8888/hls/53/index.m3u8
-º£ÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/45/index.m3u8
-É½Î÷ÎÀÊÓ,https://60.191.56.186:8888/hls/55/index.m3u8
-ÔÆÄÏÎÀÊÓ,https://60.191.56.186:8888/hls/42/index.m3u8
-¼ªÁÖÎÀÊÓ,https://60.191.56.186:8888/hls/39/index.m3u8
-ÄşÏÄÎÀÊÓ,https://60.191.56.186:8888/hls/56/index.m3u8
-¹ãÎ÷ÎÀÊÓ,https://60.191.56.186:8888/hls/58/index.m3u8
-ÄÚÃÉ¹ÅÑëÊÓÆµµÀ,#genre#
+åŒ—äº¬å«è§†,https://60.191.56.186:8888/hls/34/index.m3u8
+æµ™æ±Ÿå«è§†,https://60.191.56.186:8888/hls/17/index.m3u8
+ä¸œæ–¹å«è§†,https://60.191.56.186:8888/hls/30/index.m3u8
+æ¹–å—å«è§†,https://60.191.56.186:8888/hls/31/index.m3u8
+æ±Ÿè‹å«è§†,https://60.191.56.186:8888/hls/33/index.m3u8
+å®‰å¾½å«è§†,https://60.191.56.186:8888/hls/32/index.m3u8
+å±±ä¸œå«è§†,https://60.191.56.186:8888/hls/46/index.m3u8
+é‡åº†å«è§†,https://60.191.56.186:8888/hls/35/index.m3u8
+è´µå·å«è§†,https://60.191.56.186:8888/hls/36/index.m3u8
+å››å·å«è§†,https://60.191.56.186:8888/hls/37/index.m3u8
+å¹¿ä¸œå«è§†,https://60.191.56.186:8888/hls/38/index.m3u8
+å¤©æ´¥å«è§†,https://60.191.56.186:8888/hls/41/index.m3u8
+æ²³å—å«è§†,https://60.191.56.186:8888/hls/57/index.m3u8
+æ²³åŒ—å«è§†,https://60.191.56.186:8888/hls/43/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,https://60.191.56.186:8888/hls/44/index.m3u8
+ä¸œå—å«è§†,https://60.191.56.186:8888/hls/47/index.m3u8
+æ¹–åŒ—å«è§†,https://60.191.56.186:8888/hls/48/index.m3u8
+è¾½å®å«è§†,https://60.191.56.186:8888/hls/49/index.m3u8
+æ±Ÿè¥¿å«è§†,https://60.191.56.186:8888/hls/50/index.m3u8
+é’æµ·å«è§†,https://60.191.56.186:8888/hls/51/index.m3u8
+é™•è¥¿å«è§†,https://60.191.56.186:8888/hls/53/index.m3u8
+æµ·å—å«è§†,https://60.191.56.186:8888/hls/45/index.m3u8
+å±±è¥¿å«è§†,https://60.191.56.186:8888/hls/55/index.m3u8
+äº‘å—å«è§†,https://60.191.56.186:8888/hls/42/index.m3u8
+å‰æ—å«è§†,https://60.191.56.186:8888/hls/39/index.m3u8
+å®å¤å«è§†,https://60.191.56.186:8888/hls/56/index.m3u8
+å¹¿è¥¿å«è§†,https://60.191.56.186:8888/hls/58/index.m3u8
+å†…è’™å¤å¤®è§†é¢‘é“,#genre#
 CTV1,http://kent.dzzkent.top:4022/udp/234.1.3.171:5000
 CCTV2,http://kent.dzzkent.top:4022/udp/234.1.3.173:5000
 CCTV3,http://kent.dzzkent.top:4022/udp/234.1.2.204:5001
@@ -516,90 +516,90 @@ CCTV15,http://kent.dzzkent.top:4022/udp/234.1.3.236:5000
 CCTV16,http://kent.dzzkent.top:4022/udp/234.1.3.197:5000
 CCTV17,http://kent.dzzkent.top:4022/udp/234.1.3.234:5000
 CCTV4K,http://kent.dzzkent.top:4022/udp/234.1.3.238:5000
-CCTV4Å·ÖŞ,http://kent.dzzkent.top:4022/udp/234.1.2.159:5000
-CCTV4ÃÀÖŞ,http://kent.dzzkent.top:4022/udp/234.1.2.158:5000
+CCTV4æ¬§æ´²,http://kent.dzzkent.top:4022/udp/234.1.2.159:5000
+CCTV4ç¾æ´²,http://kent.dzzkent.top:4022/udp/234.1.2.158:5000
 CCTV5+,http://kent.dzzkent.top:4022/udp/234.1.3.172:5000
-±±¾©ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.164:5000
-Ìì½òÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.168:5000
-ºÚÁú½­ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.152:5000
-¼ªÁÖÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.196:5000
-ÁÉÄşÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.165:5000
-ºÓ±±ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.146:5000
-ºÓÄÏÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.83:5000
-É½¶«ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.162:5000
-É½Î÷ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.36:5000
-ºş±±ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.163:5000
-ºşÄÏÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.151:5000
-°²»ÕÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.169:5000
-½­ËÕÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.153:5000
-½­Î÷ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.214:5000
-Õã½­ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.154:5000
-¶«·½ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.155:5000
-¶«ÄÏÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.160:5000
-ÏÃÃÅÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.59:5000
-º£ÄÏÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.141:5000
-ÈıÉ³ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.72:5000
-ÉîÛÚÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.158:5000
-¹ã¶«ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.159:5000
-¹ãÎ÷ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.52:5000
-ÔÆÄÏÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.23:5000
-¹óÖİÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.167:5000
-ÖØÇìÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.166:5000
-ËÄ´¨ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.156:5000
-ÉÂÎ÷ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.31:5000
-ÄşÏÄÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.27:5000
-¸ÊËàÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.195:5000
-Çàº£ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.38:5000
-Î÷²ØÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.35:5000
-ĞÂ½®ÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.34:5000
-±øÍÅÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.3.60:5000
-ÄÚÃÉ¹ÅÎÀÊÓ,http://kent.dzzkent.top:4022/udp/234.1.1.9:5000
-Ó°ÊÓÆµµÀ,#genre#
-CHCÓ°ÃÔµçÓ°,http://223.82.161.157:899/hls/51/index.m3u8 
-CHC¼ÒÍ¥Ó°Ôº,http://223.82.161.157:899/hls/53/index.m3u8 
-CHC¶¯×÷µçÓ°,http://223.82.161.157:899/hls/54/index.m3u8
-
-¿¨¿áÉÙ¶ù,http://8.138.7.223/tv/hot.php?id=60
-¹ş¹şìÅ¶¯,http://8.138.7.223/tv/hot.php?id=61
-ÓÅÂş¿¨Í¨,http://8.138.7.223/tv/hot.php?id=62
-½ğÓ¥¿¨Í¨,http://8.138.7.223/tv/hot.php?id=63
-¼Î¼Ñ¿¨Í¨,http://8.138.7.223/tv/hot.php?id=64
-CHCÓ°ÃÔµçÓ°,http://8.138.7.223/tv/hot.php?id=65
-CHC¶¯×÷µçÓ°,http://8.138.7.223/tv/hot.php?id=66
-CHC¼ÒÍ¥Ó°Ôº,http://8.138.7.223/tv/hot.php?id=67
+åŒ—äº¬å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.164:5000
+å¤©æ´¥å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.168:5000
+é»‘é¾™æ±Ÿå«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.152:5000
+å‰æ—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.196:5000
+è¾½å®å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.165:5000
+æ²³åŒ—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.146:5000
+æ²³å—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.83:5000
+å±±ä¸œå«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.162:5000
+å±±è¥¿å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.36:5000
+æ¹–åŒ—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.163:5000
+æ¹–å—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.151:5000
+å®‰å¾½å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.169:5000
+æ±Ÿè‹å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.153:5000
+æ±Ÿè¥¿å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.214:5000
+æµ™æ±Ÿå«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.154:5000
+ä¸œæ–¹å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.155:5000
+ä¸œå—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.160:5000
+å¦é—¨å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.59:5000
+æµ·å—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.141:5000
+ä¸‰æ²™å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.72:5000
+æ·±åœ³å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.158:5000
+å¹¿ä¸œå«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.159:5000
+å¹¿è¥¿å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.52:5000
+äº‘å—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.23:5000
+è´µå·å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.167:5000
+é‡åº†å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.166:5000
+å››å·å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.156:5000
+é™•è¥¿å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.31:5000
+å®å¤å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.27:5000
+ç”˜è‚ƒå«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.195:5000
+é’æµ·å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.38:5000
+è¥¿è—å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.35:5000
+æ–°ç–†å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.34:5000
+å…µå›¢å«è§†,http://kent.dzzkent.top:4022/udp/234.1.3.60:5000
+å†…è’™å¤å«è§†,http://kent.dzzkent.top:4022/udp/234.1.1.9:5000
+å½±è§†é¢‘é“,#genre#
+CHCå½±è¿·ç”µå½±,http://223.82.161.157:899/hls/51/index.m3u8 
+CHCå®¶åº­å½±é™¢,http://223.82.161.157:899/hls/53/index.m3u8 
+CHCåŠ¨ä½œç”µå½±,http://223.82.161.157:899/hls/54/index.m3u8
 
 
-Ó°ÊÓÎ´·Ö×é,#genre#
-CHC¼ÒÍ¥Ó°Ôº,http://60.16.18.243:4949/hls/29/index.m3u8#http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+å“ˆå“ˆç‚«åŠ¨,http://8.138.7.223/tv/hot.php?id=61
+ä¼˜æ¼«å¡é€š,http://8.138.7.223/tv/hot.php?id=62
+é‡‘é¹°å¡é€š,http://8.138.7.223/tv/hot.php?id=63
+å˜‰ä½³å¡é€š,http://8.138.7.223/tv/hot.php?id=64
+CHCå½±è¿·ç”µå½±,http://8.138.7.223/tv/hot.php?id=65
+CHCåŠ¨ä½œç”µå½±,http://8.138.7.223/tv/hot.php?id=66
+CHCå®¶åº­å½±é™¢,http://8.138.7.223/tv/hot.php?id=67
 
-CHCµçÓ°,http://60.16.18.243:4949/hls/28/index.m3u8#http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC¶¯×÷µçÓ°,http://ndnas.top:3300/udp/225.1.4.208:1261
-CHC¶¯×÷µçÓ°2,http://115.58.218.142:4000/rtp/225.1.4.208:1261
-CHC¶¯×÷µçÓ°3,http://ychz.myds.me:35455/mgtv/644368714.m3u8
-ÖØÎÂ¾­µä,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-1905µçÓ°Íøa,http://120.76.248.139/live/lunbo/ssdy.m3u8&id=1905a
-1905µçÓ°Íøb,http://150.138.77.132:10037/1905µçÓ°Íø.php?id=1905b
-1905¹úÄÚµçÓ°,http://xxwx.yoesun.com/1905dy.php?id=1905a
-µçÓ°´óÆ¬,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
-Ó°ÊÓÌ¨ÊÓ,#genre#
-±±¾©4K,http://kent.dzzkent.top:4022/udp/234.1.3.74:5000
-±±¾©¼ÍÊµ¿Æ½Ì,http://kent.dzzkent.top:4022/udp/234.1.3.170:5000
-±±¾©¿¨¿áÉÙ¶ù,http://kent.dzzkent.top:4022/udp/234.1.3.55:5000
-ºşÄÏ½ğÓ¥¼ÍÊµ,http://kent.dzzkent.top:4022/udp/234.1.3.180:5000
-ºşÄÏ½ğÓ¥¿¨Í¨,http://kent.dzzkent.top:4022/udp/234.1.3.73:5000
-ºşÄÏÏÈ·æÆ¹Óğ,http://kent.dzzkent.top:4022/udp/234.1.3.10:5000
-¹ã¶«¼Î¼Ñ¿¨Í¨,http://kent.dzzkent.top:4022/udp/234.1.3.58:5000
-½­ËÕÓÅÂş¿¨Í¨,http://kent.dzzkent.top:4022/udp/234.1.3.62:5000
-ÁÉÄşĞÂ¶¯Âş,http://kent.dzzkent.top:4022/udp/234.1.3.70:5000
-É½¶«½ÌÓı,http://kent.dzzkent.top:4022/udp/234.1.3.69:5000
+å½±è§†æœªåˆ†ç»„,#genre#
+CHCå®¶åº­å½±é™¢,http://60.16.18.243:4949/hls/29/index.m3u8#http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+
+CHCç”µå½±,http://60.16.18.243:4949/hls/28/index.m3u8#http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CHCåŠ¨ä½œç”µå½±,http://ndnas.top:3300/udp/225.1.4.208:1261
+CHCåŠ¨ä½œç”µå½±2,http://115.58.218.142:4000/rtp/225.1.4.208:1261
+CHCåŠ¨ä½œç”µå½±3,http://ychz.myds.me:35455/mgtv/644368714.m3u8
+é‡æ¸©ç»å…¸,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+1905ç”µå½±ç½‘a,http://120.76.248.139/live/lunbo/ssdy.m3u8&id=1905a
+1905ç”µå½±ç½‘b,http://150.138.77.132:10037/1905ç”µå½±ç½‘.php?id=1905b
+1905å›½å†…ç”µå½±,http://xxwx.yoesun.com/1905dy.php?id=1905a
+ç”µå½±å¤§ç‰‡,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+å½±è§†å°è§†,#genre#
+åŒ—äº¬4K,http://kent.dzzkent.top:4022/udp/234.1.3.74:5000
+åŒ—äº¬çºªå®ç§‘æ•™,http://kent.dzzkent.top:4022/udp/234.1.3.170:5000
+åŒ—äº¬å¡é…·å°‘å„¿,http://kent.dzzkent.top:4022/udp/234.1.3.55:5000
+æ¹–å—é‡‘é¹°çºªå®,http://kent.dzzkent.top:4022/udp/234.1.3.180:5000
+æ¹–å—é‡‘é¹°å¡é€š,http://kent.dzzkent.top:4022/udp/234.1.3.73:5000
+æ¹–å—å…ˆé”‹ä¹’ç¾½,http://kent.dzzkent.top:4022/udp/234.1.3.10:5000
+å¹¿ä¸œå˜‰ä½³å¡é€š,http://kent.dzzkent.top:4022/udp/234.1.3.58:5000
+æ±Ÿè‹ä¼˜æ¼«å¡é€š,http://kent.dzzkent.top:4022/udp/234.1.3.62:5000
+è¾½å®æ–°åŠ¨æ¼«,http://kent.dzzkent.top:4022/udp/234.1.3.70:5000
+å±±ä¸œæ•™è‚²,http://kent.dzzkent.top:4022/udp/234.1.3.69:5000
 CETV1,http://kent.dzzkent.top:4022/udp/234.1.3.249:5000
 CETV2,http://kent.dzzkent.top:4022/udp/234.1.3.207:5000
 CETV4,http://kent.dzzkent.top:4022/udp/234.1.3.190:5000
-CHC¼ÒÍ¥Ó°Ôº,http://kent.dzzkent.top:4022/udp/234.1.3.6:5000
-CHC¶¯×÷µçÓ°,http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
-CHCÓ°ÃÔµçÓ°,http://kent.dzzkent.top:4022/udp/234.1.3.9:5000
-IPTVµçÓ°,http://kent.dzzkent.top:4022/udp/234.1.3.129:5000
-IPTVµçÊÓ¾ç,http://kent.dzzkent.top:4022/udp/234.1.3.130:5000
-IPTV×ÛÒÕ,http://kent.dzzkent.top:4022/udp/234.1.3.127:5000
-IPTVÌåÓı,http://kent.dzzkent.top:4022/udp/234.1.3.203:5000
+CHCå®¶åº­å½±é™¢,http://kent.dzzkent.top:4022/udp/234.1.3.6:5000
+CHCåŠ¨ä½œç”µå½±,http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
+CHCå½±è¿·ç”µå½±,http://kent.dzzkent.top:4022/udp/234.1.3.9:5000
+IPTVç”µå½±,http://kent.dzzkent.top:4022/udp/234.1.3.129:5000
+IPTVç”µè§†å‰§,http://kent.dzzkent.top:4022/udp/234.1.3.130:5000
+IPTVç»¼è‰º,http://kent.dzzkent.top:4022/udp/234.1.3.127:5000
+IPTVä½“è‚²,http://kent.dzzkent.top:4022/udp/234.1.3.203:5000
