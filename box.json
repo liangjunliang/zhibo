@@ -24,7 +24,7 @@
 	{"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://apijp.rinhome.com"},
 	{"key":"csp_Ikanbot","name":"👾Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
-    {"key": "lzzy","name": "量子┃资源","type": 1,"api": "csp_lzzy" ,"searchable": 1,"quickSearch": 1,"filterable": 1,}
+    {"key": "lzzy","name": "量子┃资源","type": 1,"api": "csp_lzzy" ,"searchable": 1,"quickSearch": 1,"filterable": 1}
     "parses": [
         //{"name":"Json并发","type":2,"url":"Parallel"},
         //{"name":"Json轮询","type":2,"url":"Sequence"},
